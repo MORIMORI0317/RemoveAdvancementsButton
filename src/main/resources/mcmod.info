@@ -1,0 +1,16 @@
+[
+{
+  "modid": "removeadvancementsbutton",
+  "name": "Remove Advancements Button",
+  "description": "The Ikisugi Remove Advancements Button MOD",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MORIMORI0317"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
